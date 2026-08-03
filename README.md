@@ -92,11 +92,6 @@ It includes an in-app subscription model to unlock advanced features, plus both 
 - API keys and auth tokens are currently hardcoded in the source code; before making the repo public, these should be moved to environment variables or a config file excluded from version control.
 - Most of the business logic currently lives inside SwiftUI Views; refactoring toward a more decoupled pattern (e.g., MVVM) would simplify maintenance going forward.
 
----
-
-## Screenshots
-
-_(Add screenshots here)_
 
 ![Vista previa](preview.png.JPG)
 ![A city](A%20city%20.PNG) |
